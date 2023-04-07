@@ -1,6 +1,7 @@
 ---
 title: SameSite cookies
-slug: Web/HTTP/Headers/Set-Cookie/SameSite
+slug: orphaned/Web/HTTP/Headers/Set-Cookie/SameSite
+original_slug: Web/HTTP/Headers/Set-Cookie/SameSite
 ---
 
 {{HTTPSidebar}}
